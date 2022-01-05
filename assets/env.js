@@ -1,2 +1,2 @@
-SSID='1plUyDhVaXn5ilDlFjtQ_SAG9t3xOUEAAZWx89SmeO3Q'
+SSID=https://github.com/20D090/spotapp/edit/main/assets/env.js
 SNAME=okazaki!A2:K1000
